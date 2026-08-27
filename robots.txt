@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://lycheetah.github.io/lyc-business-ai/sitemap.xml
