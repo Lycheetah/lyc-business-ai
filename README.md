@@ -13,6 +13,8 @@ specialist blueprint, owner field mapping, synthetic evaluation and controlled-p
 loop. Its fictional businesses are synthetic witnesses, not customers or case studies;
 production readiness is not claimed.
 
-The artifact was regenerated from source commit `dfa0d93` on 30 August 2026. That batch
-also strengthens the founder-led `/about` page and routes homepage research cards to
-real industry pages instead of dead placeholder links.
+The artifact was regenerated from source commit `aae8c85` on 30 August 2026. That batch
+adds the premium graphite-and-amber visual system, refined LYC wordmark, responsive
+navigation, workflow ribbon and shared card/button polish while preserving the
+site's welcoming language and human-control boundaries. It also includes the
+founder-led `/about` page and homepage research cards routed to real industry pages.
