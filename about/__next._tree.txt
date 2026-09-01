@@ -1,2 +1,2 @@
-:HL["/lyc-business-ai/_next/static/chunks/0co5g-3rs5qfm.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"aUGUYiqIJyrNrHwfMQHHO"}
+:HL["/lyc-business-ai/_next/static/chunks/3hurfoo0skdfo.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rjXGtB1W1MUTBebyQKbfu"}
