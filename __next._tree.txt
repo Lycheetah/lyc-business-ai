@@ -1,2 +1,2 @@
 :HL["/lyc-business-ai/_next/static/css/a9ea29d14b524ac7.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"65A0CKDJIuN6dFaQQRfKV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"ShtuPy1hQkYoQ0rO9iUEP"}
